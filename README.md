@@ -1,6 +1,6 @@
 <h3>Hi There, I’m @Grooveback-Unltd</h3>
 - 👀 I am most interested in AI agents, Web analytics and combining them as a sellable service
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning GA4, Tableau, Claude, Github
 
 
 
